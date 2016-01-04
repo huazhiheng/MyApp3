@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<ImageView
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    android:background="#3739ff" />
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="#ff100c" />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#fff20a" />
+
+
+
+
+</FrameLayout>
